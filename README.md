@@ -5,5 +5,5 @@ git with SWC workshop with Paul Bloom
 2. Will this work
 2. Maybe, confirmed.
     * Like Jupyter Notebook Markdown Cells
-      ** What will happen now
+      * What will happen now
 
